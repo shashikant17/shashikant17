@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me (aka: the human behind the commits)
 
-- 👨‍💻 **Software Engineer** with **~3 years** experience + strong **DevOps / Cloud** mindset  
+- 👨‍💻 **Software Engineer** with **4+ years** experience + strong **DevOps / Cloud** mindset  
 - ☁️ I build, automate, and ship systems that are **scalable**, **reliable**, and **observable**
 - 🔧 I love **integrating tools**, designing workflows, and turning “it works on my machine” into **production reality**
 - ✍️ I share technical learnings & write blogs on [Hashnode](https://shashikant.hashnode.dev/)
